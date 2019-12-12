@@ -95,16 +95,14 @@ img {
 }
 
 .side-panel {
-  width: 400px;
-  height: 800px;
-  /* min-width: 400px; */
+  width: 25%;
   background-color: orange;
   flex-wrap: wrap;
 
 }
 
 .video-panel {
-  width: 50%;
+  width: 75%;
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-start;
@@ -112,7 +110,7 @@ img {
 }
 
 .video-item {
-  height: auto;
+  flex-grow: 1;
   border: 1px solid black;
   border-radius: 5px;
   padding: 10px;
