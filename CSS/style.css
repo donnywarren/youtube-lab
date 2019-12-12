@@ -9,6 +9,58 @@ html {
   box-sizing: inherit;
   }
 
+
 .container {
-  
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.firstsection {
+  flex-direction: row;
+  justify-content: center;
+}
+
+.menubar {
+width: 90%;
+height: 25px;
+background-color: yellow;
+flex-direction: row;
+justify-content: start;
+margin-top: 10px;
+
+}
+
+.menu {
+  height: 25px;
+  width: 25px;
+  background-color: lightgrey;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.item-bar {
+width: 19px;
+height: 4px;
+background-color: darkgrey;
+border-radius: 2px;
+margin: 1px;
+}
+
+.youtubelogo {
+
+}
+
+
+
+.dot {
+  height: 10px;
+  width: 10px;
+  color; red;
+}
+
+
+.main {
+
+
 }
