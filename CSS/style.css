@@ -76,7 +76,7 @@ img {
 .dot {
   height: 20px;
   width: 20px;
-  background-color: #a9a9a9;
+  background-color: #b3b3b3;
   border-radius: 10px;
 }
 
@@ -128,7 +128,7 @@ img {
   height: 15px;
   width: 75px;
   margin: 15px 0 15px 0;
-  background-color: #a9a9a9;
+  background-color: #b3b3b3;
 }
 
 .video-item {
@@ -141,13 +141,13 @@ img {
 .image {
   height: 100px;
   width: 100%;
-  background-color: #a9a9a9;
+  background-color: #b3b3b3;
 }
 
 .text1 {
   height: 15px;
   width: 100%;
-  background-color: #a9a9a9;
+  background-color: #b3b3b3;
   margin-top: 8px;
 
 
@@ -156,7 +156,7 @@ img {
 .text2 {
   height: 15px;
   width: 60%;
-  background-color: #a9a9a9;
+  background-color: #b3b3b3;
   margin-top: 8px;
 }
 
